@@ -1,10 +1,3 @@
-// Author:			Jacob Christian
-// Assignment Number:   	Lab 1
-// File Name:			L1_Chrisitan.cpp 
-// Course/Section:      	COSC 1337 Section 014
-// Date:                	Sept 14th, 2018
-// Instructor:          	Dr. Bernard Ku	
-
 /*
 STRUCTURE CHART:
 1.0 INPUT
